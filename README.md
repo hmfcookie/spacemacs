@@ -32,7 +32,7 @@
 - - -
 
 
-**Quick Install:**
+**Quick Install1:**
 
 This assumes you don't have an existing Emacs setup and want to run Spacemacs as
 your config. If you do have one, look at
